@@ -1,0 +1,2 @@
+source,model,accuracy,macro_f1,notes
+lab4_current_run,lstm,0.82052,0.8204610511869649,Current Lab 4 run
